@@ -1,0 +1,20 @@
+.jalali-date-picker .vpd-time {
+    display: none;
+}
+.jalali-date-picker .vpd-close-addon {
+    display: none;
+}
+.jalali-date-picker span.vpd-input-group {
+    height: 60px;
+    border: 2px solid #21262e;
+    border-radius: 7px;
+    flex-direction: row-reverse;
+}
+.jalali-date-picker span.vpd-input-group input {
+    border: none;
+    background-color: transparent;
+}
+.jalali-date-picker label.vpd-icon-btn {
+    background-color: transparent !important;
+    padding-right: 15px;
+}
