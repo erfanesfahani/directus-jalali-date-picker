@@ -2,6 +2,8 @@
 
 This interface allows users to select dates in the Jalali (Persian) calendar format while storing and sending the date as the Gregorian calendar format. This is perfect for users in regions where the Persian calendar is commonly used, but still need to work with the widely accepted Gregorian calendar in backend systems.
 
+## Current Version 1.0.1 
+
 ## Features
 - **Jalali Calendar Display**: Users can select their desired date using the Persian calendar.
 - **Gregorian Date Submission**: Despite the displayed Jalali date, the form submission sends the corresponding Gregorian date to the server.

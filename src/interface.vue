@@ -4,8 +4,8 @@
 	  format="YYYY-MM-DD"
 	  display-format="jYYYY-jMM-jDD"
 	  @change="handleChange"
-	  type="date"
 	  class="jalali-date-picker"
+	  simple
 	/>
   </template>
   
